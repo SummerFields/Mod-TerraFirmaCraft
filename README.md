@@ -1,8 +1,8 @@
-Mod TerraFirmaCraft for SummerFields 1.6.4
-==========================================
+Mod TerraFirmaCraft for SummerFields 1.7.10
+===========================================
 
-This is the support mod "TerraFirmaCraft" for Summerfields 1.6.4
-To use, add to Summerfields pack 1.6.x in the list of "ressources pack"
+This is the support mod "TerraFirmaCraft" for Summerfields 1.7.10
+To use, add to Summerfields pack 1.7.x in the list of "ressources pack"
 
 Created by Summerfields Team
 
